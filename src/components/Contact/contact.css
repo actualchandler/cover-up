@@ -1,0 +1,29 @@
+.contact_header {
+   text-align: center;
+   color: lightgray;
+   font-size: 300%;
+}
+
+.text_header {
+   font-size: 125%;
+   color: #0c17af;
+   font-family: Roboto Slab;
+   padding-bottom: 2rem;
+}
+
+.p_header {
+   font-size: 150%;
+   color: #0c17af;
+   font-family: Roboto Slab;
+   text-align: center;
+}
+
+.info_paragraph {
+   padding-bottom: 3rem;
+   text-align: center;
+   font-size: 125%;
+}
+
+.bottom {
+   padding-bottom: 3rem;
+}

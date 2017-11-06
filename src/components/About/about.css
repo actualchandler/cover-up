@@ -1,0 +1,25 @@
+.about_header {
+   text-align: center;
+   color: lightgray;
+   font-size: 250%;
+}
+
+.text_header {
+   font-size: 130%;
+   color: #0c17af;
+   font-family: Roboto Slab;
+   padding-bottom: 2rem;
+   text-align: center;
+}
+
+.info {
+   padding-bottom: 3rem;
+   font-size: 110%;
+   font-family: Roboto Slab;
+   letter-spacing: 1px;
+   text-align: left;
+}
+
+.info_img {
+   width: 100%;
+}

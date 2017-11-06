@@ -1,0 +1,13 @@
+.catalogs_header {
+   text-align: center;
+   color: lightgray;
+   font-size: 300%;
+}
+
+.catalog_img {
+   width: 35rem;
+}
+
+.catalog_img:hover {
+   transform: scale(1.1);
+}

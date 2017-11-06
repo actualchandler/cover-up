@@ -1,0 +1,36 @@
+
+.nav {
+   text-align: center;
+   color: #0c17af;
+   padding-top: 2%;
+   padding-bottom: 2%;
+}
+
+.nav_padding {
+   padding-top: 2rem;
+   font-size: 125%;
+}
+
+.nav_padding:hover {
+   text-decoration: underline;
+}
+
+.nav_img {
+   height: 6rem;
+   filter: invert(80%);
+}
+
+.footer {
+   background-color: #9d9ea0;
+   height: 10vh;
+   color: white;
+   padding-top: 1rem;
+   text-align: center;
+   margin-top: 2rem;
+}
+
+.footer_img {
+   width: 30px;
+   padding-bottom: 1rem;
+   filter: invert(100%);
+}

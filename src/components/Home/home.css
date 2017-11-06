@@ -1,0 +1,57 @@
+.banner {
+   height: 78vh;
+   width: 100%;
+}
+
+.vid_text {
+   font-family: Roboto Slab;
+   font-size: 250%;
+}
+
+.vid {
+   padding-top: 5%;
+   padding-bottom: 5%;
+}
+
+.services {
+   background-color:#efefef;
+   padding-bottom: 4rem;
+   margin-bottom: 3rem;
+}
+
+.services_info {
+   padding-bottom: 1rem;
+   letter-spacing: 1px;
+}
+
+.services_img {
+   width: 30rem;
+}
+
+.services_icon {
+   margin-left: 8rem;
+   margin-top: 3rem;
+}
+
+.services_text_header {
+   font-size: 125%;
+   color: #0c17af;
+   font-family: Roboto Slab;
+}
+
+.services_header {
+   text-align: center;
+   font-size: 300%;
+   color: darkgray;
+   font-family: Roboto Slab;
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+}
+
+.quote_header {
+   font-family: Roboto Slab;
+   font-size: 250%;
+   padding-bottom: 2rem;
+   padding-left: 4rem;
+   color: blue;
+}
